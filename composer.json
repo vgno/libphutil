@@ -1,0 +1,16 @@
+{
+    "name": "vgno/libphutil",
+    "description": "VG's fork of libphutil",
+    "require-dev": {
+        "deployer/deployer": "~2.0"
+    },
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Erland Wiencke",
+            "email": "erland.wiencke@vg.no"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

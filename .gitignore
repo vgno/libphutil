@@ -36,3 +36,5 @@
 # User extensions
 /externals/includes/*
 /src/extensions/*
+
+/vendor/
